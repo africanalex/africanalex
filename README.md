@@ -7,7 +7,6 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,bash,git" height="60" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
 </div>
 
 ###
@@ -26,15 +25,6 @@
 - 🔗 Creator of a **Stellar-based crowdfunding** and **escrow system**
 - 📡 Built secure **IoT messaging systems** using **MQTT + Mosquitto**
 - 🔧 Enjoy tinkering with **Raspberry Pi**, **photo booths**, and **smart automation**
-
-###
-
-### 📈 Stats & Highlights
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=africanalex&theme=github-dark&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=africanalex&theme=algolia&no-frame=true&margin-w=8&margin-h=8" height="150" />
-</div>
 
 ###
 
