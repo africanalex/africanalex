@@ -21,7 +21,7 @@
 
 - 🌍 Based in Zimbabwe
 - 💼 Full-stack fintech engineer, focused on **secure integrations, banking infrastructure**, and **blockchain systems**
-- 💡 Worked with **Postilion**, **SMPP**, **mutual TLS integrations**, and **CI/CD automation**
+- 💡 Worked with **SMPP**, **mutual TLS integrations**, and **CI/CD automation**
 - 🔗 Working on a **Stellar-based crowdfunding** and **escrow system**
 - 📡 Built secure **IoT messaging systems** using **MQTT + Mosquitto**
 - 🔧 Enjoy tinkering with **Raspberry Pi**, **photo booths**, and **smart automation**
