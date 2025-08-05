@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,flutter,vue,laravel,postgres,html,css,js" height="60" />
+  <img src="https://skillicons.dev/icons?i=java,py,kotlin,flutter,react,vue,laravel,postgres,html,css,js" height="60" />
   <img src="https://skillicons.dev/icons?i=aws,docker,bash,git" height="60" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" />
